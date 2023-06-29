@@ -16,7 +16,7 @@ export function FeaturedCollection() {
                 <div className="text-wrapper-105">Amazing Collection</div>
                 <div className="group-32">
                   <div className="text-wrapper-106">by Arkhan</div>
-                  <img className="ellipse-9" alt="Ellipse" src="/static/img/ellipse-95-67.png" />
+                  <img className="ellipse-9" alt="Ellipse" src="NFT-market-place-017/static/img/ellipse-95-67.png" />
                 </div>
               </div>
               <a href="#" className='frame-8'>Total 54 Items</a>
