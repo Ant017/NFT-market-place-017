@@ -8,7 +8,7 @@ export function AmazeNFT() {
             <div className="overlap-9">
               <p className="part-3-text">The amazing NFT art of the world here</p>
               <div className="part-3-growth">
-                <img className="part-3-chart-square" alt="Chart square" src="../static/img/chart-square-2.svg" />
+                <img className="part-3-chart-square" alt="Chart square" src="./NFT-market-place-017/static/img/chart-square-2.svg" />
                 <div className="part-3-growth-heading">Growth Transaction</div>
                 <p className="part-3-growth-description">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam etiam viverra tellus
