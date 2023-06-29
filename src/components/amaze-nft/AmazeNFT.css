@@ -1,0 +1,111 @@
+.NFT-marketplace .part-3-amaze-nft {
+    height: 326px;
+    left: 0;
+    position: absolute;
+    top: 728px;
+    width: 1442px;
+  }
+  
+  .NFT-marketplace .overlap-9 {
+    -webkit-backdrop-filter: blur(50px) brightness(100%);
+    backdrop-filter: blur(50px) brightness(100%);
+    background-color: #d9dfeb33;
+    height: 326px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .NFT-marketplace .part-3-text {
+    color: #000000;
+    font-family: "Integral CF-Bold", Helvetica;
+    font-size: 28px;
+    font-weight: 700;
+    left: 121px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 129px;
+    width: 398px;
+  }
+  
+  .NFT-marketplace .part-3-growth {
+    height: 85px;
+    left: 961px;
+    position: absolute;
+    top: 122px;
+    width: 366px;
+  }
+  
+  .NFT-marketplace .part-3-chart-square {
+    height: 36px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 36px;
+  }
+  
+  .NFT-marketplace .part-3-growth-heading {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 51px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3px;
+  }
+  
+  .NFT-marketplace .part-3-growth-description {
+    color: #696969;
+    font-family: "DM Sans", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 51px;
+    letter-spacing: 0;
+    line-height: 22.4px;
+    position: absolute;
+    top: 41px;
+    width: 311px;
+  }
+  
+  .NFT-marketplace .part-3-fast {
+    height: 107px;
+    left: 605px;
+    position: absolute;
+    top: 122px;
+    width: 304px;
+  }
+  
+  .NFT-marketplace .part-3-card-tick {
+    height: 36px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 36px;
+  }
+  
+  .NFT-marketplace .part-3-fast-heading {
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 51px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3px;
+  }
+  
+  .NFT-marketplace .part-3-fast-description {
+    color: #696969;
+    font-family: "DM Sans", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 51px;
+    letter-spacing: 0;
+    line-height: 22.4px;
+    position: absolute;
+    top: 41px;
+    width: 249px;
+  }

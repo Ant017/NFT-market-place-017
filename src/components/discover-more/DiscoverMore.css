@@ -1,0 +1,75 @@
+.NFT-marketplace .discover-NFT {
+    height: 2001px;
+    left: 0;
+    position: absolute;
+    top: 3271px;
+    width: 1442px;
+  }
+  
+  .NFT-marketplace .overlap-19 {
+    -webkit-backdrop-filter: blur(50px) brightness(100%);
+    backdrop-filter: blur(50px) brightness(100%);
+    background-color: #d9dfeb33;
+    height: 2001px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .NFT-marketplace .text-wrapper-117 {
+    color: #000000;
+    font-family: "Integral CF-Bold", Helvetica;
+    font-size: 34px;
+    font-weight: 700;
+    left: 120px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 64px;
+  }
+  
+  .NFT-marketplace .filter-2 {
+    height: 44px;
+    left: 121px;
+    position: absolute;
+    top: 141px;
+    width: 1193px;
+  }
+  
+  .NFT-marketplace .menu {
+    align-items: flex-start;
+    display: flex;
+    gap: 12px;
+    left: 0;
+    position: absolute;
+    top: 2px;
+    width: fit-content;
+  }
+  
+  .NFT-marketplace .CTA-more-NFT {
+    align-items: center;
+    border: 2px solid;
+    border-color: #3d00b7;
+    border-radius: 50px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    left: 625px;
+    padding: 20px 40px;
+    position: absolute;
+    top: 1888px;
+    width: fit-content;
+
+    color: #4f33a3;
+    font-family: "DM Sans", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+    transition: 0.3s;
+  }
+
+  .NFT-marketplace .CTA-more-NFT:hover {
+    background-color: #3d00b7;
+    color: #fff;
+  }

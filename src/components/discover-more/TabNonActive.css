@@ -1,0 +1,28 @@
+.tab-non-active {
+    align-items: center;
+    background-color: #dbdbdb33;
+    border-radius: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    padding: 10px 20px;
+    position: relative;
+    width: fit-content;
+
+    color: #000000;
+    font-family: "DM Sans", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 17.5px;
+    text-decoration: none;
+    transition: 0.3s;
+  }
+
+  .tab-non-active:hover {
+    color: #fff;
+    background-color: #3d00b7;
+    text-decoration: none;
+  }
+  

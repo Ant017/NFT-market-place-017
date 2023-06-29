@@ -1,0 +1,143 @@
+.NFT-marketplace .sign-up-NFT {
+  height: 606px;
+  left: 120px;
+  position: absolute;
+  top: 2583px;
+  width: 1204px;
+}
+
+.NFT-marketplace .frame-11 {
+  align-items: center;
+  border: 2px solid;
+  background-color: #3d00b7;
+  border-radius: 50px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  left: 683px;
+  padding: 20px 40px;
+  position: absolute;
+  top: 431px;
+  width: fit-content;
+
+  color: #ffffff;
+  font-family: "Averta Demo PE Cutted Demo-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 1.3px;
+  line-height: normal;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.NFT-marketplace .frame-11:hover {
+  background-color: #fff;
+  color: #3d00b7;
+}
+
+.NFT-marketplace .overlap-16 {
+  height: 254px;
+  left: 105px;
+  position: absolute;
+  top: 352px;
+  width: 235px;
+}
+
+.NFT-marketplace .unsplash-tzcrfpsniiq-2 {
+  height: 214px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 195px;
+}
+
+.NFT-marketplace .group-39 {
+  background-image: url(../../../static/img/ellipse-95-64.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 80px;
+  left: 155px;
+  position: absolute;
+  top: 174px;
+  width: 80px;
+}
+
+.NFT-marketplace .overlap-17 {
+  height: 285px;
+  left: 364px;
+  position: absolute;
+  top: 138px;
+  width: 277px;
+}
+
+.NFT-marketplace .unsplash-9 {
+  height: 265px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 241px;
+}
+
+.NFT-marketplace .group-40 {
+  background-image: url(../../../static/img/ellipse-95-65.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 72px;
+  left: 205px;
+  position: absolute;
+  top: 213px;
+  width: 72px;
+}
+
+.NFT-marketplace .overlap-18 {
+  height: 334px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.NFT-marketplace .unsplash-10 {
+  height: 300px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.NFT-marketplace .group-41 {
+  background-image: url(../../../static/img/ellipse-95-66.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 80px;
+  left: 248px;
+  position: absolute;
+  top: 254px;
+  width: 80px;
+}
+
+.NFT-marketplace .text-wrapper-115 {
+  color: #000000;
+  font-family: "Integral CF-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 683px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 138px;
+  width: 320px;
+}
+
+.NFT-marketplace .text-wrapper-116 {
+  color: #626262;
+  font-family: "DM Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 683px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 254px;
+  width: 517px;
+}
